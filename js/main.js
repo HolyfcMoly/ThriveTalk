@@ -23,8 +23,3 @@ menu.addEventListener('click', function () {
         },400)
     }
 })
-
-// document.addEventListener("click", function (e) {
-//     if (!list.contains(e.target))
-//     {list.classList.remove('open');}
-// });

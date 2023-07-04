@@ -1286,12 +1286,15 @@
             background-color: #62D0DF;
             transition: all .3s ease-in-out;
         }
+
         .burger-stick:nth-child(2) {
             top: 5px;
         }
+
         .burger-stick:last-child {
             top: 10px;
         }
+
         .nav {
             order: 1;
         }
@@ -1341,13 +1344,16 @@
         .header__btn {
             order: 3;
         }
+
         .burger-active {
             opacity: 0;
             width: 0;
         }
+
         .burger-stick-top {
             transform: rotate(45deg);
         }
+        
         .burger-stick-bottom {
             transform: rotate(-45deg);
         }
